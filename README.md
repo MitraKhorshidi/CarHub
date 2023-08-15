@@ -1,4 +1,4 @@
-This is a Next.JS (Next13.4) .It is another version of Car-Show-Case project with using React.JS Hooks features .You can explore cars details and also search specific cars with their brand and model, also you can filter them with year of production and fuel. This project has been published by Vercel on the link above the page.
+This is a Next.JS project (Next13.4) .It is another version of Car-Show-Case project with using React.JS Hooks features .You can explore cars details and also search specific cars with their brand and model, also you can filter them with year of production and fuel. This project has been published by Vercel on the link above the page.
 <br/>
 <hr/>
 ## Getting Started
